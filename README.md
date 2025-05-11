@@ -38,4 +38,7 @@ conn = mysql.connector.connect(
     database="student_portal"
 )
 
+## ER-Diagram
+![erd](image.png)
+
 Created by Melanie Chebet
